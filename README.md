@@ -5,3 +5,11 @@
 - There are a ton of built-in policies and they are used from a governance perspective
 - Admins can also create custom policies
 - Examples: Ensuring all VMs have Antimalware extension installed or ensuring all resource groups have tags in place.
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175575028-8e26cacd-74f1-478b-b91c-450aadd351a5.png" height="55%" width="55%" alt="Azure Policies"/>
+
+<p/>
+
+
