@@ -16,4 +16,21 @@
 
 
 # Navigate to Azure Policies and apply Antimalware policies
-- Admins can apply policy at the suscription or resource group level and exclude a specific resource group
+- Admins can apply policies at the suscription or resource group level and exclude a specific resource group
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175784170-70184d0c-a728-4543-9b15-11b78f5b32f1.png" height="185%" width="185%" alt="Azure Policies"/>
+
+<p/>
+
+# Assign the IaaSAntimalware Extension policy to your subscription
+- This policy checks that VMs in the subscription have the extension installed.
+- Reminder - we assigned this policy at the subscription level. 
+- We could exclude particular resource groups if we wanted to.
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175784224-9a282209-6157-467f-9b7c-041653473216.png" height="185%" width="185%" alt="Azure Policies"/>
+
+<p/>
