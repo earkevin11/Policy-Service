@@ -12,4 +12,8 @@
 
 <p/>
 
+# Create two virtual machines and apply an azure policy that ensures antimalware extension is installed on the VMs 
 
+
+# Navigate to Azure Policies and apply Antimalware policies
+- Admins can apply policy at the suscription or resource group level and exclude a specific resource group
