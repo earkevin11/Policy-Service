@@ -41,7 +41,7 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/175785277-7a08b910-1ace-4f2b-bf01-0a041651436f.png" height="185%" width="185%" alt="Azure Policies"/>
+<img src="https://user-images.githubusercontent.com/104326475/175785326-868ff501-9d7c-417f-9cf5-3c975e8e4e9f.png" height="195%" width="185%" alt="Azure Policies"/>
 
 <p/>
 
