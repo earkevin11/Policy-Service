@@ -68,6 +68,7 @@
 
 
 # For existing resources like the VMs we created that are non compliant, a remediation task is needed
+- Using policies, admins can automate the remediation of non-compliant resources
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/104326475/175785602-bfa7838a-5d95-4562-a8c3-3b482c6d577b.png" height="75%" width="75%" alt="Azure Policies"/>
