@@ -46,3 +46,17 @@
 <p/>
 
 
+# Azure Policy Remediation
+- Admins can now remediate these policies by deploying another policy that will deploy the antimalware extension
+
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175785387-2bccbd96-6ccd-4cf6-ac7b-c66cf13fe0de.png" height="75%" width="75%" alt="Azure Policies"/>
+
+<p/>
+
+
+
+
+
