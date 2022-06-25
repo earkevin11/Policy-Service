@@ -48,6 +48,7 @@
 
 # Azure Policy Remediation
 - Admins can now remediate these policies by deploying another policy that will deploy the antimalware extension
+- In the policy definition, it will execute if the extension does not exist on Windows Server 2019
 
 
 <p align="center">
@@ -55,6 +56,16 @@
 <img src="https://user-images.githubusercontent.com/104326475/175785387-2bccbd96-6ccd-4cf6-ac7b-c66cf13fe0de.png" height="75%" width="75%" alt="Azure Policies"/>
 
 <p/>
+
+
+# Deploy the IaaSAntimalware extension for Windows Server
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175785437-2004e2f5-a917-4270-ad0c-b10981b73859.png" height="75%" width="75%" alt="Azure Policies"/>
+
+<p/>
+
+
 
 
 
