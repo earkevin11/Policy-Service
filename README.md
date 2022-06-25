@@ -34,3 +34,14 @@
 <img src="https://user-images.githubusercontent.com/104326475/175784293-aeed1bdb-c90e-4c8d-b0d7-6a2ce53859b9.png" height="185%" width="185%" alt="Azure Policies"/>
 
 <p/>
+
+
+# Admins will be able to see in the overview section which policies were triggers
+- Here we can see that the VMs that we created are non-compliant under IaaSmAntimalware extension
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175785259-16099dc0-e3b2-4191-80bd-dfb28f0beaef.png" height="185%" width="185%" alt="Azure Policies"/>
+
+<p/>
+
+
