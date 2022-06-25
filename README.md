@@ -76,6 +76,12 @@
 <p/>
 
 
+# Check to see if the deployments were initiated and if the two virtual machines are compliant
+- Here you can see after the deployment of all default IaaSAntimalware extension to non-compliant machines, the overview tells us that our two resources are now compliant.
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175786726-9b06b3ea-bebf-46ed-aae3-a85e654dccd8.png" height="75%" width="75%" alt="Azure Policies"/>
 
+<p/>
 
 
